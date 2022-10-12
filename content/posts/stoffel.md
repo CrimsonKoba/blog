@@ -12,7 +12,7 @@ Este genial mamífero carnívoro es nativo de África Subsahariana, Oriente Medi
 
 Con su longitud de hasta un metro y peso máximo de 20kg es conocido cómo el animal **más valiente del mundo**.
 
-Considerado por la revista [Scientific Americano](https://www.scientificamerican.com/); gramo a gramo el mamífero terrestre más temible de la tierra.
+Considerado por la revista [Scientific American](https://www.scientificamerican.com/); gramo a gramo el mamífero terrestre más temible de la tierra.
 Tiene muy pocos depredadores y entres sus victimas se encuentran; _hienas, leones, tigres, erizos, cocodrilos..._ y no repara en atacar humanos si se siente amenazado. Una de sus comidas favoritas son las serpientes debido a una asombrosa **inmunidad al veneno**.
 
 
