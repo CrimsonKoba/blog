@@ -1,0 +1,75 @@
+---
+baseURL: 'https://crimsonkoba.github.io/blog/'
+languageCode: es-mx
+title: Mi Blog
+theme: PaperMod
+
+module:
+  imports:
+    - path: github.com/adityatelange/hugo-PaperMod
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+enableInlineShortcodes: true
+enableRobotsTXT: false
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+  disableXML: true
+
+defaultContentLanguage: es
+
+languages:
+  es:
+    languageName: ":flag_mx:"
+    languageAltTile: Español
+    weight: 1
+    taxonomies:
+      category: categorias
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Sobre mi
+          url: about
+          weight: 1
+        - name: Archivo
+          url: archives
+          weight: 5
+        - name: tags
+          url: tags/
+          weight: 10
+
+  en:
+    languageName: ":us:"
+    languageAltTitle: English
+    weight: 2
+    title: My blog
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    homeInfoParams:
+      Title: Work in progress...
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  defaultTheme: auto
+  ShowToc: false
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowBreadCrumbs: false
+  ShowPostNavLinks: false
+  ShowCodeCopyButtons: true
