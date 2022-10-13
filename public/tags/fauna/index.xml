@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>fauna on Mi Blog</title>
+    <link>https://crimsonkoba.github.io/blog/tags/fauna/</link>
+    <description>Recent content in fauna on Mi Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-mx</language><atom:link href="https://crimsonkoba.github.io/blog/tags/fauna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stoffel</title>
+      <link>https://crimsonkoba.github.io/blog/posts/stoffel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crimsonkoba.github.io/blog/posts/stoffel/</guid>
+      <description>¿Un tejón melero? Este genial mamífero carnívoro es nativo de África Subsahariana, Oriente Medio e India.
+Con su longitud de hasta un metro y peso máximo de 20kg es conocido cómo el animal más valiente del mundo.
+Considerado por la revista Scientific American; gramo a gramo el mamífero terrestre más temible de la tierra. Tiene muy pocos depredadores y entres sus victimas se encuentran; hienas, leones, tigres, erizos, cocodrilos&amp;hellip; y no repara en atacar humanos si se siente amenazado.</description>
+    </item>
+    
+  </channel>
+</rss>
